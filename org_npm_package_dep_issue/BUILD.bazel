@@ -1,0 +1,10 @@
+load("@npm_bazel_typescript//:index.bzl", "ts_library")
+
+ts_library(
+    name = "org_npm_package_dep_issue",
+    srcs = ["index.ts"],
+    deps = [
+        "@npm//@types/vimeo__player",
+        "@npm//@vimeo/player",
+    ],
+)

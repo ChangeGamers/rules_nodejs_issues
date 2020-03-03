@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "target": "es2015",
+    "lib": ["es2017", "esnext.asynciterable", "dom"],
+    "strict": true,
+    "sourceMap": true,
+    "skipLibCheck": true,
+    "preserveWatchOutput": true,
+    "experimentalDecorators": true,
+    "types": []
+  }
+}

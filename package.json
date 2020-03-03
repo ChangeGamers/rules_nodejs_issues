@@ -1,0 +1,12 @@
+{
+  "name": "@minga/rules_nodejs_issues",
+  "private": true,
+  "dependencies": {
+    "@vimeo/player": "2.9.0"
+  },
+  "devDependencies": {
+    "@bazel/typescript": "1.4.0",
+    "@types/vimeo__player": "2.9.0",
+    "typescript": "^3.8.3"
+  }
+}
