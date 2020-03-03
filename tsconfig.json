@@ -3,7 +3,7 @@
     "moduleResolution": "node",
     "target": "es2015",
     "lib": ["es2017", "esnext.asynciterable", "dom"],
-    "strict": true,
+    "strict": false,
     "sourceMap": true,
     "skipLibCheck": true,
     "preserveWatchOutput": true,
